@@ -4,6 +4,7 @@
     font-weight: 700;
     color: #000;
     margin: 0;
+    padding-left: 50px;
 }
 
 .nav-link{
@@ -11,6 +12,7 @@
     font-size: 20px;
     font-weight: 500;
 }
+
 
 .carousel-item  img {
     max-height: 600px;
@@ -78,9 +80,6 @@
 }
 
 /*Contact Section*/
-.contact{
-    text-decoration: underline;
-}
 label{
     padding-top: 20px;
     color: #000;
